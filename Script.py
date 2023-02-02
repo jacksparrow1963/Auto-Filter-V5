@@ -341,7 +341,7 @@ sᴇʀɪᴇs ʀᴇǫᴜᴇsᴛ ғᴏʀᴍᴀᴛ
 
 🚯ᴅᴏɴ'ᴛ ᴜsᴇ ➠ ':(!,./)
 
-Powered by :- @CyniteBackup
+Powered by :- @zeeflixbackup
 """
     
     REQUEST_TXT = """
