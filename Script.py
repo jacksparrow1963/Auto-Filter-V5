@@ -11,16 +11,16 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Cyniteofficial>☢ Cynite ☢</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/zeeflixbackup>☢ Zeeflix ☢</a></b>
 
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/CyniteBackup>Cynite Updates 👾</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/zeeflixbackup>zeeflix Updates 👾</a></b>
 
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT ="""
 <b>Tʜɪꜱ Bᴏᴛ Iꜱ Aɴ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
 
-- Sᴏᴜʀᴄᴇ - <a href=https://t.me/Aks_support01_bot>Watch Tutorial</a></b>
+- Sᴏᴜʀᴄᴇ - <a href=https://t.me/zeeflix_chat>Watch Tutorial</a></b>
 """
  
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -50,7 +50,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/CyniteBackup)</code>
+<code>[Button Text](buttonurl:https://t.me/zeeflixbackup)</code>
 
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
@@ -113,7 +113,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>👥 ɢʀᴏᴜᴘs:</b> <code>{}</code>
 <b>📉 ᴏᴄᴄᴜᴘɪᴇᴅ:</b> <code>{}</code>
 
-<b><a href=https://t.me/CyniteBackup>~ Maintained by Cynite</a></b>"""
+<b><a href=https://t.me/zeeflixbackup>~ Maintained by Zeeflix</a></b>"""
 
     ADMIN_STATUS_TXT = """<b>⍟────[ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]────⍟</b>
 
@@ -135,7 +135,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 <b>🆓 ғʀᴇᴇ:</b> <code>{}</code>
 
-<b>⍟────[ @CyniteBackup ]─────⍟</b>"""
+<b>⍟────[ @zeeflixbackup ]─────⍟</b>"""
 
     LOG_TEXT_G = """<b>#NewGroup
     
@@ -192,26 +192,26 @@ Pʟᴇᴀsᴇ Cʜᴇᴄᴋ Yᴏᴜʀ Sᴘᴇʟʟɪɴɢ 🤧</b>
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ:- Cynite
-ᴜsᴇʀɴᴀᴍᴇ:- @cynitesupport
-ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ:- <a href='https://t.me/cynitesupport'>Cynite</a></b>
+• ꜰᴜʟʟ ɴᴀᴍᴇ:- Zeeflix
+ᴜsᴇʀɴᴀᴍᴇ:- @zeeflix_owner
+ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ:- <a href='https://t.me/zeeflix_chat'>Zeeflix</a></b>
 """
 
-    CYNITE_IMDB = """
+    ZEEFLIX_IMDB = """
 <u><b>Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:</b></u>
 
 • /imdb  - <code>ɢᴇᴛ ᴛʜᴇ ꜰɪʟᴍ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ꜰʀᴏᴍ ɪᴍᴅʙ ꜱᴏᴜʀᴄᴇ.</code>
 • /search  - <code>ɢᴇᴛ ᴛʜᴇ ꜰɪʟᴍ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ꜰʀᴏᴍ ᴠᴀʀɪᴏᴜꜱ ꜱᴏᴜʀᴄᴇꜱ.</code>
 """
 
-    CYNITE_MISC = """
+    ZEEFLIX_MISC = """
 <u><b>Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:</b></u>
 
 • /id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</code>
 • /info  - <code>ɢᴇᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜꜱᴇʀ.</code>
 """
 
-    CYNITE_FILSTR = """
+    ZEEFLIX_FILSTR = """
 <b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Fɪʟᴇ Sᴛᴏʀᴇ Mᴏᴅᴜʟᴇ ⍟</b>
 
 » ᴀ ᴍᴏᴅᴜʟᴇ ᴛᴏ ɢᴇᴛ sʜᴀʀᴀʙʟᴇ ʟɪɴᴋ ғᴏʀ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ.
@@ -222,11 +222,11 @@ Pʟᴇᴀsᴇ Cʜᴇᴄᴋ Yᴏᴜʀ Sᴘᴇʟʟɪɴɢ 🤧</b>
 • /batch <code>- ᴛᴏ ᴄʀᴇᴀᴛᴇ ʟɪɴᴋ ғᴏʀ ᴍᴜʟᴛɪᴘʟᴇ ᴍᴇᴅɪᴀ.<code>
 
 <b>Exᴀᴍᴘʟᴇ:</b>
-<code>/batch https://t.me/Cynitebackup
-https://t.me/CyniteBackup </code>
+<code>/batch https://t.me/zeeflixbackup
+https://t.me/zeeflixbackup </code>
 """
 
-    CYNITE_CNL = """
+    ZEEFLIX_CNL = """
 ♡ ᴄʜᴀɴɴᴇʟs & ɢʀᴏᴜᴘs ᴍᴏᴅᴜʟᴇ ♡
 
 📹 ᴄᴏᴍᴘʟᴇᴛᴇ ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇsᴛɪɴɢ ɢʀᴏᴜᴘ.
@@ -327,7 +327,7 @@ https://t.me/CyniteBackup </code>
 
 ɪғ ʏᴏᴜ ɴᴏᴛ sᴇᴇ ʏᴏᴜʀ ғɪʟᴇs ᴏɴ ᴛʜɪs ᴘᴀɢᴇ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ɴᴇxᴛ ᴘᴀɢᴇ.
 
-Powered by :- @CyniteBackup
+Powered by :- @zeeflixbackup
 """
 
     SPLMD = """
@@ -424,7 +424,7 @@ Kɪɴᴅʟʏ Cʜᴇᴄᴋ Tʜᴇ Bᴏᴛ Bᴇғᴏʀᴇ Rᴇǫᴜᴇsᴛɪɴɢ.<
 
 🔅 Pᴏᴡᴇʀᴇᴅ Bʏ :- {}
 
-<a href='https://t.me/Cynitebackup'>‣ Tʜɪs Mᴇssᴀɢᴇ Wɪʟʟ ʙᴇ Aᴜᴛᴏ-Dᴇʟᴇᴛᴇᴅ Aғᴛᴇʀ 5 Mɪɴᴜᴛᴇs. Kɪɴᴅʟʏ Fᴏʀᴡᴀʀᴅ Yᴏᴜʀ Fɪʟᴇs Tᴏ Sᴀᴠᴇᴅ.</a></b>"""
+<a href='https://t.me/zeeflixbackup'>‣ Tʜɪs Mᴇssᴀɢᴇ Wɪʟʟ ʙᴇ Aᴜᴛᴏ-Dᴇʟᴇᴛᴇᴅ Aғᴛᴇʀ 5 Mɪɴᴜᴛᴇs. Kɪɴᴅʟʏ Fᴏʀᴡᴀʀᴅ Yᴏᴜʀ Fɪʟᴇs Tᴏ Sᴀᴠᴇᴅ.</a></b>"""
 
     FILE_READY_TXT = """
 <b>Hᴇʏ {}
